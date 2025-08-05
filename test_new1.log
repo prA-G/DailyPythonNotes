@@ -1,0 +1,3 @@
+2025-08-05 11:40:23,633 DEBUG This msg is for debugging..
+2025-08-05 11:40:23,633 INFO This is info msg..
+2025-08-05 11:40:23,633 WARNING This is warning msg..
